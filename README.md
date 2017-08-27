@@ -1,1 +1,1 @@
-# https://P-nasty.github.io/third-website/
+# https://P-Nasty.github.io/third-website/
