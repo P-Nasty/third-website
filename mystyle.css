@@ -1,15 +1,12 @@
-
 body{
-background-color: lightblue;
+ background-color: lightblue;
 }
 h1 {
     color: red;
 }
-
-
 p{
-border: 1px solid powderblue;
-margin: 50px
-font-size: 200%;
-color: purple;
+ border: 1px solid powderblue;
+ margin: 50px
+ font-size: 200%;
+ color: purple;
 }
